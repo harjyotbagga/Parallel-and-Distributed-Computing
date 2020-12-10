@@ -2,6 +2,9 @@
  
 This is a companion repository for my Parallel and Distributed Computing class at my University. It contains the codes in the C Programming language, using the OpenMP and MPI library.
  
+<p align="center">
+  <img src="https://github.com/harjyotbagga/Parallel-Distributed_Computing/blob/main/.github/pdc.png">
+</p>
  
 ## About
  
